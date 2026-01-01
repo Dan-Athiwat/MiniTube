@@ -1,0 +1,9 @@
+{
+  "name": "MiniTube Public",
+  "short_name": "MiniTube",
+  "start_url": "channel.html",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "icons": []
+}
